@@ -1,5 +1,4 @@
 # TikBanner
-
 TikBanner is a Node.js script that prompts the user for an TikTok username and then displays a stylish, large, gradient-colored message every second, indicating that reports are being sent to the specified TikTok user.
 
 ## ✨ Features
@@ -37,7 +36,7 @@ npm start
 Upon running the script, you will see a prompt asking for an TikTok username without the '@' symbol. After entering the username, the script will display the following message every second in a stylish, large, gradient-colored format:
 
 ```
-Reports sending by @MogaTeam to TikTok user @username
+Reports sending by @MogaTeam to TikTok useruser zafariqbal24387
 ```
 
 ## 📂 Project Structure
